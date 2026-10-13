@@ -1,0 +1,12 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://topreviews.vercel.app/sitemap.xml
+Sitemap: https://topreviews-8zb.pages.dev/sitemap.xml
+Sitemap: https://top-reviews.github.io/p/sitemap.xml
