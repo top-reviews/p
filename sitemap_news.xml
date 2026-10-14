@@ -8,30 +8,8 @@
         <news:name>Argon News Wire</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-10-14T20:01:13Z</news:publication_date>
+      <news:publication_date>2026-10-14T20:01:23Z</news:publication_date>
       <news:title>Guia de Link Building 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://topreviews.vercel.app/go/go-relatorio-financeiro-pdf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Argon News Wire</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T20:01:13Z</news:publication_date>
-      <news:title>Relatório Financeiro Trimestral</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://topreviews.vercel.app/go/go-artigo-parasite-telegraph</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Argon News Wire</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T20:01:13Z</news:publication_date>
-      <news:title>Artigo Parasite no Telegra.ph</news:title>
     </news:news>
   </url>
 </urlset>
