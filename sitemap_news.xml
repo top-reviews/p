@@ -2,36 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://topreviews.vercel.app/go/go-test-0</loc>
+    <loc>https://topreviews.vercel.app/go/go-appanail-review-9198179</loc>
     <news:news>
       <news:publication>
         <news:name>Argon News Wire</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-10-14T22:18:39Z</news:publication_date>
-      <news:title>Test 0</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://topreviews.vercel.app/go/go-test-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Argon News Wire</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T22:18:39Z</news:publication_date>
-      <news:title>Test 1</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://topreviews.vercel.app/go/go-test-2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Argon News Wire</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T22:18:39Z</news:publication_date>
-      <news:title>Test 2</news:title>
+      <news:publication_date>2026-10-14T22:36:08Z</news:publication_date>
+      <news:title>Appanail Review</news:title>
     </news:news>
   </url>
 </urlset>

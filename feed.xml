@@ -4,33 +4,17 @@
     <title>Argon Real-Time WebSub &amp; Forum/Video Discovery Feed</title>
     <link>https://topreviews.vercel.app/latest.html</link>
     <description>High-frequency syndication feed connected to WebSub PubSubHubbub hubs</description>
-    <lastBuildDate>Wed, 14 Oct 2026 22:18:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:36:08 +0000</lastBuildDate>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <atom:link href="https://pubsubhubbub.superfeedr.com/" rel="hub" />
     <atom:link href="https://topreviews.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test 0</title>
-      <link>https://sites.google.com/view/7-day-prayer-mir-9178254/home</link>
-      <guid isPermaLink="true">https://sites.google.com/view/7-day-prayer-mir-9178254/home</guid>
-      <source url="https://topreviews.vercel.app/go/go-test-0">Argon Discovery Stream</source>
-      <pubDate>Wed, 14 Oct 2026 22:18:39 +0000</pubDate>
-      <description><![CDATA[https://sites.google.com/view/7-day-prayer-mir-9178254/home — Acesso direto: <a href="https://sites.google.com/view/7-day-prayer-mir-9178254/home">Test 0</a> (Mirror: <a href="https://topreviews.vercel.app/go/go-test-0">https://topreviews.vercel.app/go/go-test-0</a>)]]></description>
-    </item>
-    <item>
-      <title>Test 1</title>
-      <link>https://sites.google.com/view/14-day-rapid-sou-9190380/home</link>
-      <guid isPermaLink="true">https://sites.google.com/view/14-day-rapid-sou-9190380/home</guid>
-      <source url="https://topreviews.vercel.app/go/go-test-1">Argon Discovery Stream</source>
-      <pubDate>Wed, 14 Oct 2026 22:18:39 +0000</pubDate>
-      <description><![CDATA[https://sites.google.com/view/14-day-rapid-sou-9190380/home — Acesso direto: <a href="https://sites.google.com/view/14-day-rapid-sou-9190380/home">Test 1</a> (Mirror: <a href="https://topreviews.vercel.app/go/go-test-1">https://topreviews.vercel.app/go/go-test-1</a>)]]></description>
-    </item>
-    <item>
-      <title>Test 2</title>
-      <link>https://sites.google.com/view/7-second-daily-ritual-9194279/home</link>
-      <guid isPermaLink="true">https://sites.google.com/view/7-second-daily-ritual-9194279/home</guid>
-      <source url="https://topreviews.vercel.app/go/go-test-2">Argon Discovery Stream</source>
-      <pubDate>Wed, 14 Oct 2026 22:18:39 +0000</pubDate>
-      <description><![CDATA[https://sites.google.com/view/7-second-daily-ritual-9194279/home — Acesso direto: <a href="https://sites.google.com/view/7-second-daily-ritual-9194279/home">Test 2</a> (Mirror: <a href="https://topreviews.vercel.app/go/go-test-2">https://topreviews.vercel.app/go/go-test-2</a>)]]></description>
+      <title>Appanail Review</title>
+      <link>https://sites.google.com/view/appanail-review--9198179/home</link>
+      <guid isPermaLink="true">https://sites.google.com/view/appanail-review--9198179/home</guid>
+      <source url="https://topreviews.vercel.app/go/go-appanail-review-9198179">Argon Discovery Stream</source>
+      <pubDate>Wed, 14 Oct 2026 22:36:08 +0000</pubDate>
+      <description><![CDATA[https://sites.google.com/view/appanail-review--9198179/home — Acesso direto: <a href="https://sites.google.com/view/appanail-review--9198179/home">Appanail Review</a> (Mirror: <a href="https://topreviews.vercel.app/go/go-appanail-review-9198179">https://topreviews.vercel.app/go/go-appanail-review-9198179</a>)]]></description>
     </item>
   </channel>
 </rss>

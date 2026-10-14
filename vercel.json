@@ -3,26 +3,6 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/go/go-1a168a5378",
-      "destination": "https://sites.google.com/view/the-21-day-smoot-9432157/home",
-      "permanent": true
-    },
-    {
-      "source": "/go/go-dcb3ef50f1",
-      "destination": "https://sites.google.com/view/the-back-pain-mi-9413622/home",
-      "permanent": true
-    },
-    {
-      "source": "/go/go-19363cb715",
-      "destination": "https://sites.google.com/view/the-21-day-smoot-9413586/home",
-      "permanent": true
-    },
-    {
-      "source": "/go/go-163d83098e",
-      "destination": "https://sites.google.com/view/the-bioenergy-co-9413673/home",
-      "permanent": true
-    },
-    {
       "source": "/go/go-d74fdd8faf",
       "destination": "https://sites.google.com/view/the-clubhouse-fi-9413790/home",
       "permanent": true
@@ -2515,6 +2495,11 @@
     {
       "source": "/go/go-test-2",
       "destination": "https://sites.google.com/view/7-second-daily-ritual-9194279/home",
+      "permanent": true
+    },
+    {
+      "source": "/go/go-appanail-review-9198179",
+      "destination": "https://sites.google.com/view/appanail-review--9198179/home",
       "permanent": true
     }
   ]

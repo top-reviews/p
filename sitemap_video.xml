@@ -2,35 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
-    <loc>https://topreviews.vercel.app/canonical/go-test-0</loc>
+    <loc>https://topreviews.vercel.app/canonical/go-appanail-review-9198179</loc>
     <video:video>
       <video:thumbnail_loc>https://topreviews.vercel.app/thumb.jpg</video:thumbnail_loc>
-      <video:title>Test 0</video:title>
-      <video:description>Transmissão técnica para https://sites.google.com/view/7-day-prayer-mir-9178254/home</video:description>
-      <video:player_loc>https://sites.google.com/view/7-day-prayer-mir-9178254/home</video:player_loc>
-      <video:publication_date>2026-10-14T22:18:39Z</video:publication_date>
-      <video:live>yes</video:live>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://topreviews.vercel.app/canonical/go-test-1</loc>
-    <video:video>
-      <video:thumbnail_loc>https://topreviews.vercel.app/thumb.jpg</video:thumbnail_loc>
-      <video:title>Test 1</video:title>
-      <video:description>Transmissão técnica para https://sites.google.com/view/14-day-rapid-sou-9190380/home</video:description>
-      <video:player_loc>https://sites.google.com/view/14-day-rapid-sou-9190380/home</video:player_loc>
-      <video:publication_date>2026-10-14T22:18:39Z</video:publication_date>
-      <video:live>yes</video:live>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://topreviews.vercel.app/canonical/go-test-2</loc>
-    <video:video>
-      <video:thumbnail_loc>https://topreviews.vercel.app/thumb.jpg</video:thumbnail_loc>
-      <video:title>Test 2</video:title>
-      <video:description>Transmissão técnica para https://sites.google.com/view/7-second-daily-ritual-9194279/home</video:description>
-      <video:player_loc>https://sites.google.com/view/7-second-daily-ritual-9194279/home</video:player_loc>
-      <video:publication_date>2026-10-14T22:18:39Z</video:publication_date>
+      <video:title>Appanail Review</video:title>
+      <video:description>Transmissão técnica para https://sites.google.com/view/appanail-review--9198179/home</video:description>
+      <video:player_loc>https://sites.google.com/view/appanail-review--9198179/home</video:player_loc>
+      <video:publication_date>2026-10-14T22:36:08Z</video:publication_date>
       <video:live>yes</video:live>
     </video:video>
   </url>
