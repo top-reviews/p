@@ -7,6 +7,11 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://topreviews.vercel.app/sitemap.xml
-Sitemap: https://topreviews-8zb.pages.dev/sitemap.xml
 Sitemap: https://top-reviews.github.io/p/sitemap.xml
+Sitemap: https://top-reviews.github.io/p/sitemap_news.xml
+Sitemap: https://top-reviews.github.io/p/sitemap_video.xml
+Sitemap: https://top-reviews.github.io/p/feed.xml
+Sitemap: https://topreviews.vercel.app/sitemap.xml
+Sitemap: https://topreviews.vercel.app/sitemap_news.xml
+Sitemap: https://topreviews.vercel.app/sitemap_video.xml
+Sitemap: https://topreviews.vercel.app/feed.xml
