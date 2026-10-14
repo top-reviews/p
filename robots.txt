@@ -1,3 +1,8 @@
+Sitemap: https://topreviews.vercel.app/sitemap_index.xml
+Sitemap: https://topreviews.vercel.app/sitemap_bridge.xml
+Sitemap: https://topreviews.vercel.app/sitemap_news.xml
+Sitemap: https://topreviews.vercel.app/sitemap_video.xml
+
 User-agent: Googlebot
 Allow: /
 
@@ -45,8 +50,3 @@ Disallow: /
 
 User-agent: *
 Allow: /
-
-Sitemap: https://topreviews.vercel.app/sitemap_index.xml
-Sitemap: https://topreviews.vercel.app/sitemap_bridge.xml
-Sitemap: https://topreviews.vercel.app/sitemap_news.xml
-Sitemap: https://topreviews.vercel.app/sitemap_video.xml
