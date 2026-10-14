@@ -1,10 +1,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Dataset",
-  "name": "Argon Verified Web Reference Dataset (2026-10-14T20:10:09Z)",
+  "name": "Argon Verified Web Reference Dataset (2026-10-14T20:10:18Z)",
   "description": "Catálogo estruturado de referências e documentos técnicos verificados para Google Dataset Search e AI Grounding.",
   "url": "https://topreviews.vercel.app/latest.html",
-  "dateModified": "2026-10-14T20:10:09Z",
+  "dateModified": "2026-10-14T20:10:18Z",
   "creator": {
     "@type": "Organization",
     "name": "Argon Technical Lab",
@@ -15,18 +15,6 @@
       "@type": "DataDownload",
       "name": "Guia de Link Building 2026",
       "contentUrl": "https://medium.com/@exemplo/guia-linkbuilding-2026",
-      "encodingFormat": "text/html"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Relatório Financeiro Trimestral",
-      "contentUrl": "https://docs.aws.amazon.com/s3/relatorio-financeiro.pdf",
-      "encodingFormat": "application/pdf"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Artigo Parasite no Telegra.ph",
-      "contentUrl": "https://telegra.ph/Artigo-Parasite-Autoridade-10-14",
       "encodingFormat": "text/html"
     }
   ]
