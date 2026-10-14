@@ -2,19 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Argon Real-Time WebSub &amp; Forum/Video Discovery Feed</title>
-    <link>https://top-reviews.github.io/p/latest.html</link>
+    <link>https://topreviews.vercel.app/latest.html</link>
     <description>High-frequency syndication feed connected to WebSub PubSubHubbub hubs</description>
-    <lastBuildDate>Wed, 14 Oct 2026 20:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:07:23 +0000</lastBuildDate>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <atom:link href="https://pubsubhubbub.superfeedr.com/" rel="hub" />
-    <atom:link href="https://top-reviews.github.io/p/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://topreviews.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Paper</title>
+      <title>2401.00001.pdf</title>
       <link>https://arxiv.org/pdf/2401.00001.pdf</link>
       <guid isPermaLink="true">https://arxiv.org/pdf/2401.00001.pdf</guid>
-      <source url="https://top-reviews.github.io/p/go/go-test123">Argon Discovery Stream</source>
-      <pubDate>Wed, 14 Oct 2026 20:51:24 +0000</pubDate>
-      <description><![CDATA[https://arxiv.org/pdf/2401.00001.pdf — Acesso direto: <a href="https://arxiv.org/pdf/2401.00001.pdf">Test Paper</a> (Mirror: <a href="https://top-reviews.github.io/p/go/go-test123">https://top-reviews.github.io/p/go/go-test123</a>)]]></description>
+      <source url="https://topreviews.vercel.app/go/go-eluql7g">Argon Discovery Stream</source>
+      <pubDate>Wed, 14 Oct 2026 21:07:23 +0000</pubDate>
+      <description><![CDATA[https://arxiv.org/pdf/2401.00001.pdf — Acesso direto: <a href="https://arxiv.org/pdf/2401.00001.pdf">2401.00001.pdf</a> (Mirror: <a href="https://topreviews.vercel.app/go/go-eluql7g">https://topreviews.vercel.app/go/go-eluql7g</a>)]]></description>
+    </item>
+    <item>
+      <title>seo-indexing-hub-2026</title>
+      <link>https://sites.google.com/view/seo-indexing-hub-2026</link>
+      <guid isPermaLink="true">https://sites.google.com/view/seo-indexing-hub-2026</guid>
+      <source url="https://topreviews.vercel.app/go/go-z2f13zd">Argon Discovery Stream</source>
+      <pubDate>Wed, 14 Oct 2026 21:07:23 +0000</pubDate>
+      <description><![CDATA[https://sites.google.com/view/seo-indexing-hub-2026 — Acesso direto: <a href="https://sites.google.com/view/seo-indexing-hub-2026">seo-indexing-hub-2026</a> (Mirror: <a href="https://topreviews.vercel.app/go/go-z2f13zd">https://topreviews.vercel.app/go/go-z2f13zd</a>)]]></description>
+    </item>
+    <item>
+      <title>google-search-central-discussion</title>
+      <link>https://groups.google.com/g/google-search-central-discussion</link>
+      <guid isPermaLink="true">https://groups.google.com/g/google-search-central-discussion</guid>
+      <source url="https://topreviews.vercel.app/go/go-vaf1sw2">Argon Discovery Stream</source>
+      <pubDate>Wed, 14 Oct 2026 21:07:23 +0000</pubDate>
+      <description><![CDATA[https://groups.google.com/g/google-search-central-discussion — Acesso direto: <a href="https://groups.google.com/g/google-search-central-discussion">google-search-central-discussion</a> (Mirror: <a href="https://topreviews.vercel.app/go/go-vaf1sw2">https://topreviews.vercel.app/go/go-vaf1sw2</a>)]]></description>
+    </item>
+    <item>
+      <title>25-vectors-instant-indexing-guide</title>
+      <link>https://medium.com/@seospecialist/25-vectors-instant-indexing-guide</link>
+      <guid isPermaLink="true">https://medium.com/@seospecialist/25-vectors-instant-indexing-guide</guid>
+      <source url="https://topreviews.vercel.app/go/go-w3oibz7">Argon Discovery Stream</source>
+      <pubDate>Wed, 14 Oct 2026 21:07:23 +0000</pubDate>
+      <description><![CDATA[https://medium.com/@seospecialist/25-vectors-instant-indexing-guide — Acesso direto: <a href="https://medium.com/@seospecialist/25-vectors-instant-indexing-guide">25-vectors-instant-indexing-guide</a> (Mirror: <a href="https://topreviews.vercel.app/go/go-w3oibz7">https://topreviews.vercel.app/go/go-w3oibz7</a>)]]></description>
+    </item>
+    <item>
+      <title>omega-trawler-indexing-proof</title>
+      <link>https://febspot.com/video/omega-trawler-indexing-proof</link>
+      <guid isPermaLink="true">https://febspot.com/video/omega-trawler-indexing-proof</guid>
+      <source url="https://topreviews.vercel.app/go/go-k9tqv2z">Argon Discovery Stream</source>
+      <pubDate>Wed, 14 Oct 2026 21:07:23 +0000</pubDate>
+      <description><![CDATA[https://febspot.com/video/omega-trawler-indexing-proof — Acesso direto: <a href="https://febspot.com/video/omega-trawler-indexing-proof">omega-trawler-indexing-proof</a> (Mirror: <a href="https://topreviews.vercel.app/go/go-k9tqv2z">https://topreviews.vercel.app/go/go-k9tqv2z</a>)]]></description>
     </item>
   </channel>
 </rss>

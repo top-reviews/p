@@ -1,21 +1,45 @@
 {
   "@context": "https://schema.org",
   "@type": "Dataset",
-  "name": "Argon Verified Web Reference Dataset (2026-10-14T20:51:24Z)",
+  "name": "Argon Verified Web Reference Dataset (2026-10-14T21:07:23Z)",
   "description": "Catálogo estruturado de referências e documentos técnicos verificados para Google Dataset Search e AI Grounding.",
-  "url": "https://top-reviews.github.io/p/latest.html",
-  "dateModified": "2026-10-14T20:51:24Z",
+  "url": "https://topreviews.vercel.app/latest.html",
+  "dateModified": "2026-10-14T21:07:23Z",
   "creator": {
     "@type": "Organization",
     "name": "Argon Technical Lab",
-    "url": "https://top-reviews.github.io/p"
+    "url": "https://topreviews.vercel.app"
   },
   "distribution": [
     {
       "@type": "DataDownload",
-      "name": "Test Paper",
+      "name": "2401.00001.pdf",
       "contentUrl": "https://arxiv.org/pdf/2401.00001.pdf",
       "encodingFormat": "application/pdf"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "seo-indexing-hub-2026",
+      "contentUrl": "https://sites.google.com/view/seo-indexing-hub-2026",
+      "encodingFormat": "text/html"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "google-search-central-discussion",
+      "contentUrl": "https://groups.google.com/g/google-search-central-discussion",
+      "encodingFormat": "text/html"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "25-vectors-instant-indexing-guide",
+      "contentUrl": "https://medium.com/@seospecialist/25-vectors-instant-indexing-guide",
+      "encodingFormat": "text/html"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "omega-trawler-indexing-proof",
+      "contentUrl": "https://febspot.com/video/omega-trawler-indexing-proof",
+      "encodingFormat": "text/html"
     }
   ]
 }

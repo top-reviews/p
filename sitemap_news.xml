@@ -2,14 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://top-reviews.github.io/p/go/go-test123</loc>
+    <loc>https://topreviews.vercel.app/go/go-eluql7g</loc>
     <news:news>
       <news:publication>
         <news:name>Argon News Wire</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-10-14T20:51:24Z</news:publication_date>
-      <news:title>Test Paper</news:title>
+      <news:publication_date>2026-10-14T21:07:23Z</news:publication_date>
+      <news:title>2401.00001.pdf</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://topreviews.vercel.app/go/go-z2f13zd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Argon News Wire</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T21:07:23Z</news:publication_date>
+      <news:title>seo-indexing-hub-2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://topreviews.vercel.app/go/go-vaf1sw2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Argon News Wire</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T21:07:23Z</news:publication_date>
+      <news:title>google-search-central-discussion</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://topreviews.vercel.app/go/go-w3oibz7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Argon News Wire</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T21:07:23Z</news:publication_date>
+      <news:title>25-vectors-instant-indexing-guide</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://topreviews.vercel.app/go/go-k9tqv2z</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Argon News Wire</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T21:07:23Z</news:publication_date>
+      <news:title>omega-trawler-indexing-proof</news:title>
     </news:news>
   </url>
 </urlset>
