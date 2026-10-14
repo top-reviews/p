@@ -10411,6 +10411,11 @@
       "source": "/go/go-artigo-parasite-telegraph",
       "destination": "https://telegra.ph/Artigo-Parasite-Autoridade-10-14",
       "permanent": true
+    },
+    {
+      "source": "/go/go-test123",
+      "destination": "https://arxiv.org/pdf/2401.00001.pdf",
+      "permanent": true
     }
   ]
 }

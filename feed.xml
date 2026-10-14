@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Argon Real-Time WebSub &amp; Forum/Video Discovery Feed</title>
-    <link>https://topreviews.vercel.app/latest.html</link>
+    <link>https://top-reviews.github.io/p/latest.html</link>
     <description>High-frequency syndication feed connected to WebSub PubSubHubbub hubs</description>
-    <lastBuildDate>Wed, 14 Oct 2026 20:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:51:24 +0000</lastBuildDate>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <atom:link href="https://pubsubhubbub.superfeedr.com/" rel="hub" />
-    <atom:link href="https://topreviews.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://top-reviews.github.io/p/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guia de Link Building 2026</title>
-      <link>https://medium.com/@exemplo/guia-linkbuilding-2026</link>
-      <guid isPermaLink="true">https://medium.com/@exemplo/guia-linkbuilding-2026</guid>
-      <source url="https://topreviews.vercel.app/go/go-guia-linkbuilding-2026">Argon Discovery Stream</source>
-      <pubDate>Wed, 14 Oct 2026 20:41:46 +0000</pubDate>
-      <description><![CDATA[Estratégia completa de links de alta autoridade para 2026. — Acesso direto: <a href="https://medium.com/@exemplo/guia-linkbuilding-2026">Guia de Link Building 2026</a> (Mirror: <a href="https://topreviews.vercel.app/go/go-guia-linkbuilding-2026">https://topreviews.vercel.app/go/go-guia-linkbuilding-2026</a>)]]></description>
+      <title>Test Paper</title>
+      <link>https://arxiv.org/pdf/2401.00001.pdf</link>
+      <guid isPermaLink="true">https://arxiv.org/pdf/2401.00001.pdf</guid>
+      <source url="https://top-reviews.github.io/p/go/go-test123">Argon Discovery Stream</source>
+      <pubDate>Wed, 14 Oct 2026 20:51:24 +0000</pubDate>
+      <description><![CDATA[https://arxiv.org/pdf/2401.00001.pdf — Acesso direto: <a href="https://arxiv.org/pdf/2401.00001.pdf">Test Paper</a> (Mirror: <a href="https://top-reviews.github.io/p/go/go-test123">https://top-reviews.github.io/p/go/go-test123</a>)]]></description>
     </item>
   </channel>
 </rss>

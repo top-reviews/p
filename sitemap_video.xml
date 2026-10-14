@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
-    <loc>https://topreviews.vercel.app/canonical/go-guia-linkbuilding-2026</loc>
+    <loc>https://top-reviews.github.io/p/canonical/go-test123</loc>
     <video:video>
-      <video:thumbnail_loc>https://topreviews.vercel.app/thumb.jpg</video:thumbnail_loc>
-      <video:title>Guia de Link Building 2026</video:title>
-      <video:description>Estratégia completa de links de alta autoridade para 2026.</video:description>
-      <video:player_loc>https://medium.com/@exemplo/guia-linkbuilding-2026</video:player_loc>
-      <video:publication_date>2026-10-14T20:41:46Z</video:publication_date>
+      <video:thumbnail_loc>https://top-reviews.github.io/p/thumb.jpg</video:thumbnail_loc>
+      <video:title>Test Paper</video:title>
+      <video:description>Transmissão técnica para https://arxiv.org/pdf/2401.00001.pdf</video:description>
+      <video:player_loc>https://arxiv.org/pdf/2401.00001.pdf</video:player_loc>
+      <video:publication_date>2026-10-14T20:51:24Z</video:publication_date>
       <video:live>yes</video:live>
     </video:video>
   </url>
