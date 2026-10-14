@@ -1,10 +1,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Dataset",
-  "name": "Argon Verified Web Reference Dataset (2026-10-14T20:10:02Z)",
+  "name": "Argon Verified Web Reference Dataset (2026-10-14T20:10:06Z)",
   "description": "Catálogo estruturado de referências e documentos técnicos verificados para Google Dataset Search e AI Grounding.",
   "url": "https://topreviews.vercel.app/latest.html",
-  "dateModified": "2026-10-14T20:10:02Z",
+  "dateModified": "2026-10-14T20:10:06Z",
   "creator": {
     "@type": "Organization",
     "name": "Argon Technical Lab",
