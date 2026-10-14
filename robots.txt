@@ -1,17 +1,52 @@
 User-agent: Googlebot
 Allow: /
 
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
 User-agent: Bingbot
 Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: GoogleOther-Image
+Disallow: /
+
+User-agent: GoogleOther-Video
+Disallow: /
+
+User-agent: AdsBot-Google
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
 
 User-agent: *
 Allow: /
 
-Sitemap: https://top-reviews.github.io/p/sitemap.xml
-Sitemap: https://top-reviews.github.io/p/sitemap_news.xml
-Sitemap: https://top-reviews.github.io/p/sitemap_video.xml
-Sitemap: https://top-reviews.github.io/p/feed.xml
-Sitemap: https://topreviews.vercel.app/sitemap.xml
+Sitemap: https://topreviews.vercel.app/sitemap_index.xml
+Sitemap: https://topreviews.vercel.app/sitemap_bridge.xml
 Sitemap: https://topreviews.vercel.app/sitemap_news.xml
 Sitemap: https://topreviews.vercel.app/sitemap_video.xml
-Sitemap: https://topreviews.vercel.app/feed.xml

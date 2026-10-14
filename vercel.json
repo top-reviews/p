@@ -10396,6 +10396,21 @@
       "source": "/go/go-2e7e35e0c5",
       "destination": "https://sites.google.com/view/nitric-boost-ult-9466412/home",
       "permanent": true
+    },
+    {
+      "source": "/go/go-guia-linkbuilding-2026",
+      "destination": "https://medium.com/@exemplo/guia-linkbuilding-2026",
+      "permanent": true
+    },
+    {
+      "source": "/go/go-relatorio-financeiro-pdf",
+      "destination": "https://docs.aws.amazon.com/s3/relatorio-financeiro.pdf",
+      "permanent": true
+    },
+    {
+      "source": "/go/go-artigo-parasite-telegraph",
+      "destination": "https://telegra.ph/Artigo-Parasite-Autoridade-10-14",
+      "permanent": true
     }
   ]
 }
