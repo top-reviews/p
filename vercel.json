@@ -2501,6 +2501,21 @@
       "source": "/go/go-czwrv92",
       "destination": "https://sites.google.com/view/appanail-review--9198179/home",
       "permanent": true
+    },
+    {
+      "source": "/go/go-test-0",
+      "destination": "https://sites.google.com/view/7-day-prayer-mir-9178254/home",
+      "permanent": true
+    },
+    {
+      "source": "/go/go-test-1",
+      "destination": "https://sites.google.com/view/14-day-rapid-sou-9190380/home",
+      "permanent": true
+    },
+    {
+      "source": "/go/go-test-2",
+      "destination": "https://sites.google.com/view/7-second-daily-ritual-9194279/home",
+      "permanent": true
     }
   ]
 }
