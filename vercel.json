@@ -3,11 +3,6 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/go/go-12148edfb5",
-      "destination": "https://sites.google.com/view/zencortex-vs-qui-9416890/home",
-      "permanent": true
-    },
-    {
       "source": "/go/go-1267470555",
       "destination": "https://sites.google.com/view/zencortex-review-9434420/home",
       "permanent": true
@@ -2500,6 +2495,11 @@
     {
       "source": "/go/go-burn-boost-revie-9207319-4k42hd",
       "destination": "https://sites.google.com/view/burn-boost-revie-9207319/home",
+      "permanent": true
+    },
+    {
+      "source": "/go/go-appanail-deal",
+      "destination": "https://sites.google.com/view/appanail-reviews-best-deal/home",
       "permanent": true
     }
   ]
