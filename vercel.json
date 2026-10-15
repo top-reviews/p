@@ -3,21 +3,6 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/go/go-425ae1148d",
-      "destination": "https://sites.google.com/view/alpha-tonic-revi-9459045/home",
-      "permanent": true
-    },
-    {
-      "source": "/go/go-53409aa7ee",
-      "destination": "https://sites.google.com/view/all-day-slimming-9459046/home",
-      "permanent": true
-    },
-    {
-      "source": "/go/go-f18cf2e865",
-      "destination": "https://sites.google.com/view/advanced-mitocho-9458941/home",
-      "permanent": true
-    },
-    {
       "source": "/go/go-a18dae5ff7",
       "destination": "https://sites.google.com/view/anniemak-renew-e-9459143/home",
       "permanent": true
@@ -2500,6 +2485,21 @@
     {
       "source": "/go/go-cellucare-review-9294384-o1ajjt",
       "destination": "https://sites.google.com/view/cellucare-review-9294384/home",
+      "permanent": true
+    },
+    {
+      "source": "/go/go-9cad0fb54be1",
+      "destination": "https://sites.google.com/view/truvarin-reviews-hair-loss/",
+      "permanent": true
+    },
+    {
+      "source": "/go/go-debe54cac393",
+      "destination": "https://sites.google.com/view/sightcare-reviews-9040375/home",
+      "permanent": true
+    },
+    {
+      "source": "/go/go-9c79e16cad22",
+      "destination": "https://sites.google.com/view/biotox-gold-revi-9294277/home",
       "permanent": true
     }
   ]
