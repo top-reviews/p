@@ -1,0 +1,21 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/go/go-9cad0fb54be1",
+      "destination": "https://sites.google.com/view/truvarin-reviews-hair-loss/",
+      "permanent": true
+    },
+    {
+      "source": "/go/go-debe54cac393",
+      "destination": "https://sites.google.com/view/sightcare-reviews-9040375/home",
+      "permanent": true
+    },
+    {
+      "source": "/go/go-9c79e16cad22",
+      "destination": "https://sites.google.com/view/biotox-gold-revi-9294277/home",
+      "permanent": true
+    }
+  ]
+}
