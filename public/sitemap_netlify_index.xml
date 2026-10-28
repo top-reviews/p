@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://review25.netlify.app/sitemap_netlify.xml</loc>
+    <lastmod>2026-10-28T00:11:48+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://review25.netlify.app/sitemap_netlify_video.xml</loc>
+    <lastmod>2026-10-28T00:11:48+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://review25.netlify.app/sitemap_netlify_news.xml</loc>
+    <lastmod>2026-10-28T00:11:48+00:00</lastmod>
+  </sitemap>
+</sitemapindex>
