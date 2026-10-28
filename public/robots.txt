@@ -1,9 +1,3 @@
-Sitemap: https://topreviews.vercel.app/sitemap.xml
-Sitemap: https://topreviews.vercel.app/sitemap_index.xml
-Sitemap: https://topreviews.vercel.app/sitemap_bridge.xml
-Sitemap: https://topreviews.vercel.app/sitemap_news.xml
-Sitemap: https://topreviews.vercel.app/sitemap_video.xml
-
 User-agent: Googlebot
 Allow: /
 
@@ -16,38 +10,43 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: BingPreview
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: GoogleOther
-Disallow: /
-
-User-agent: GoogleOther-Image
-Disallow: /
-
-User-agent: GoogleOther-Video
-Disallow: /
-
-User-agent: AdsBot-Google
-Disallow: /
-
-User-agent: AhrefsBot
-Disallow: /
-
-User-agent: SemrushBot
-Disallow: /
-
-User-agent: MJ12bot
-Disallow: /
-
-User-agent: DotBot
-Disallow: /
-
 User-agent: *
 Allow: /
+
+# Vercel Sitemaps
+Sitemap: https://topreviews.vercel.app/sitemap.xml
+Sitemap: https://topreviews.vercel.app/sitemap_video.xml
+Sitemap: https://topreviews.vercel.app/sitemap_news.xml
+Sitemap: https://topreviews.vercel.app/sitemap_index.xml
+
+# Cloudflare Pages Sitemaps
+Sitemap: https://topreviews-8zb.pages.dev/sitemap_cloudflare.xml
+Sitemap: https://topreviews-8zb.pages.dev/sitemap_cloudflare_video.xml
+Sitemap: https://topreviews-8zb.pages.dev/sitemap_cloudflare_news.xml
+Sitemap: https://topreviews-8zb.pages.dev/sitemap_cloudflare_index.xml
+
+# Netlify Sitemaps
+Sitemap: https://review25.netlify.app/sitemap_netlify.xml
+Sitemap: https://review25.netlify.app/sitemap_netlify_video.xml
+Sitemap: https://review25.netlify.app/sitemap_netlify_news.xml
+Sitemap: https://review25.netlify.app/sitemap_netlify_index.xml
+
+# Render Sitemaps
+Sitemap: https://topreviews-7r9w.onrender.com/sitemap_render.xml
+Sitemap: https://topreviews-7r9w.onrender.com/sitemap_render_video.xml
+Sitemap: https://topreviews-7r9w.onrender.com/sitemap_render_news.xml
+Sitemap: https://topreviews-7r9w.onrender.com/sitemap_render_index.xml
+
+# GitHub Pages Sitemaps
+Sitemap: https://top-reviews.github.io/p/sitemap_github.xml
+Sitemap: https://top-reviews.github.io/p/sitemap_github_video.xml
+Sitemap: https://top-reviews.github.io/p/sitemap_github_news.xml
+Sitemap: https://top-reviews.github.io/p/sitemap_github_index.xml
+
+# AWS S3 Sitemaps
+Sitemap: https://myreviews-us.s3.amazonaws.com/sitemap.xml
+Sitemap: https://myreviews-us.s3.amazonaws.com/sitemap_video.xml
+Sitemap: https://myreviews-us.s3.amazonaws.com/sitemap_news.xml
+Sitemap: https://myreviews-us.s3.amazonaws.com/sitemap_index.xml
+Sitemap: http://myreviews-us.s3-website-us-east-1.amazonaws.com/sitemap_s3_website_index.xml
+Sitemap: https://pcr3ml-dev.s3.amazonaws.com/sitemap_index.xml
