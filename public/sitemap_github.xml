@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://top-reviews.github.io/p/</loc>
-    <lastmod>2026-10-29T21:48:05+00:00</lastmod>
+    <lastmod>2026-10-29T21:54:32+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://top-reviews.github.io/p/gh-prodentim-reviews-and-product-highlights-qyy3cf.html</loc>
+    <lastmod>2026-10-29T21:54:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://top-reviews.github.io/p/prodentim-real-success-reviews-5isvbx.html</loc>
-    <lastmod>2026-10-29T21:48:05+00:00</lastmod>
+    <lastmod>2026-10-29T21:54:32+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
