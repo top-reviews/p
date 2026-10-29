@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://myreviews-us.s3.amazonaws.com/sitemap_s3.xml</loc>
-    <lastmod>2026-10-29T15:38:30+00:00</lastmod>
+    <lastmod>2026-10-29T17:50:05+00:00</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://myreviews-us.s3.amazonaws.com/sitemap_s3_video.xml</loc>
-    <lastmod>2026-10-29T15:38:30+00:00</lastmod>
+    <lastmod>2026-10-29T17:50:05+00:00</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://myreviews-us.s3.amazonaws.com/sitemap_s3_news.xml</loc>
-    <lastmod>2026-10-29T15:38:30+00:00</lastmod>
+    <lastmod>2026-10-29T17:50:05+00:00</lastmod>
   </sitemap>
 </sitemapindex>
