@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://topreviews-8zb.pages.dev/sitemap_cloudflare.xml</loc>
-    <lastmod>2026-10-29T18:03:07+00:00</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://topreviews-8zb.pages.dev/sitemap_cloudflare_video.xml</loc>
-    <lastmod>2026-10-29T18:03:07+00:00</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://topreviews-8zb.pages.dev/sitemap_cloudflare_news.xml</loc>
-    <lastmod>2026-10-29T18:03:07+00:00</lastmod>
+    <loc>https://topreviews-8zb.pages.dev/sitemaps/sitemap-cloudflare-001.xml</loc>
+    <lastmod>2026-10-29T19:29:44+00:00</lastmod>
   </sitemap>
 </sitemapindex>
