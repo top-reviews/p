@@ -2,13 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>http://myreviews-us.s3-website-us-east-1.amazonaws.com/reviews/alpha-tonic/video/alpha-tonic-real-success-reviews-3xs8us.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Global Review &amp; Tech Watch</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T19:49:15+00:00</news:publication_date>
+      <news:title>Alpha Tonic Real Success Reviews (Time to Reorder?) United States, Canada, UK, NZ [NCT61U11S]</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>http://myreviews-us.s3-website-us-east-1.amazonaws.com/reviews/prodentim/video/prodentim-real-success-reviews-5isvbx.html</loc>
     <news:news>
       <news:publication>
         <news:name>Global Review &amp; Tech Watch</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-29T19:30:45+00:00</news:publication_date>
+      <news:publication_date>2026-10-29T19:49:15+00:00</news:publication_date>
       <news:title>Prodentim Real Success Reviews (Time to Reorder?) Official North America &amp; Global [QU6GEUCGV]</news:title>
     </news:news>
   </url>

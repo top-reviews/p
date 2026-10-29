@@ -1,8 +1,9 @@
 # Sitemaps Fallbacks & Canonical Rewrites
+/sitemaps/*                     /sitemaps/:splat                200
+/sitemap_index.xml              /sitemap_index.xml              200
 /sitemap_video.xml              /sitemap_video.xml              200
 /sitemap_news.xml               /sitemap_news.xml               200
 /sitemap.xml                    /sitemap.xml                    200
-/sitemap_index.xml              /sitemap_index.xml              200
 /sitemap_cloudflare.xml         /sitemap_cloudflare.xml         200
 /sitemap_cloudflare_video.xml   /sitemap_cloudflare_video.xml   200
 /sitemap_cloudflare_news.xml    /sitemap_cloudflare_news.xml    200
