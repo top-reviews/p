@@ -2,8 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
+    <loc>https://top-reviews.github.io/p/gh-369-manifestation-code-reviews-and-product-highlights-0c40rs.html</loc>
+    <lastmod>2026-10-30T01:27:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://myreviews-us.s3.amazonaws.com/reviews/369-manifestation-code/thumbnails/gh-369-manifestation-code-reviews-and-product-highlights-0c40rs.jpg</video:thumbnail_loc>
+      <video:title>369 Manifestation Code Reviews and Product Highlights (Time to Reorder?) USA, Canada, Australia [3735LAV5G]</video:title>
+      <video:description>Verified video review and clinical breakdown for 369 Manifestation Code. Ingredients, test results, customer warnings, and official discount pricing.</video:description>
+      <video:content_loc>https://myreviews-us.s3.amazonaws.com/reviews/369-manifestation-code/video/gh-369-manifestation-code-reviews-and-product-highlights-0c40rs.mp4</video:content_loc>
+      <video:duration>1408</video:duration>
+      <video:publication_date>2026-10-30T01:27:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  <url>
     <loc>https://top-reviews.github.io/p/gh-prodentim-reviews-and-product-highlights-qyy3cf.html</loc>
-    <lastmod>2026-10-29T22:13:04+00:00</lastmod>
+    <lastmod>2026-10-30T01:27:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -12,7 +29,7 @@
       <video:description>Verified video review and clinical breakdown for Prodentim. Ingredients, test results, customer warnings, and official discount pricing.</video:description>
       <video:content_loc>https://myreviews-us.s3.amazonaws.com/reviews/prodentim/video/gh-prodentim-reviews-and-product-highlights-qyy3cf.mp4</video:content_loc>
       <video:duration>872</video:duration>
-      <video:publication_date>2026-10-29T22:13:04+00:00</video:publication_date>
+      <video:publication_date>2026-10-30T01:27:00+00:00</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:requires_subscription>no</video:requires_subscription>
       <video:live>no</video:live>
@@ -20,7 +37,7 @@
   </url>
   <url>
     <loc>https://top-reviews.github.io/p/prodentim-real-success-reviews-5isvbx.html</loc>
-    <lastmod>2026-10-29T22:13:04+00:00</lastmod>
+    <lastmod>2026-10-30T01:27:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -29,7 +46,7 @@
       <video:description>Verified video review and clinical breakdown for Prodentim. Ingredients, test results, customer warnings, and official discount pricing.</video:description>
       <video:content_loc>https://myreviews-us.s3.amazonaws.com/reviews/prodentim/video/prodentim-real-success-reviews-5isvbx.mp4</video:content_loc>
       <video:duration>1534</video:duration>
-      <video:publication_date>2026-10-29T22:13:04+00:00</video:publication_date>
+      <video:publication_date>2026-10-30T01:27:00+00:00</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:requires_subscription>no</video:requires_subscription>
       <video:live>no</video:live>

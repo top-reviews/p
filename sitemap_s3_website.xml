@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://myreviews-us.s3-website-us-east-1.amazonaws.com/</loc>
-    <lastmod>2026-10-29T22:13:04+00:00</lastmod>
+    <lastmod>2026-10-30T01:27:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>http://myreviews-us.s3-website-us-east-1.amazonaws.com/reviews/369-manifestation-code/video/369-manifestation-code-real-success-reviews-9xlih9.html</loc>
+    <lastmod>2026-10-30T01:27:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://myreviews-us.s3-website-us-east-1.amazonaws.com/reviews/prodentim/video/prodentim-real-success-reviews-rv2w3b.html</loc>
-    <lastmod>2026-10-29T22:13:04+00:00</lastmod>
+    <lastmod>2026-10-30T01:27:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
