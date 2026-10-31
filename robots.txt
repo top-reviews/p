@@ -12,37 +12,3 @@ Allow: /
 
 User-agent: *
 Allow: /
-
-# GitHub Pages Master Sitemap Index & Video
-Sitemap: https://top-reviews.github.io/p/sitemap_github_index.xml
-Sitemap: https://top-reviews.github.io/p/sitemap_github_video.xml
-Sitemap: https://top-reviews.github.io/p/sitemap_github.xml
-
-# Vercel Master Sitemap Index & Video
-Sitemap: https://topreviews.vercel.app/sitemap_index.xml
-Sitemap: https://topreviews.vercel.app/sitemap_video.xml
-Sitemap: https://topreviews.vercel.app/sitemap.xml
-
-# Cloudflare Pages Master Sitemap Index & Video
-Sitemap: https://topreviews-8zb.pages.dev/sitemap_cloudflare_index.xml
-Sitemap: https://topreviews-8zb.pages.dev/sitemap_cloudflare_video.xml
-Sitemap: https://topreviews-8zb.pages.dev/sitemap_cloudflare.xml
-
-# Netlify Master Sitemap Index & Video
-Sitemap: https://review25.netlify.app/sitemap_netlify_index.xml
-Sitemap: https://review25.netlify.app/sitemap_netlify_video.xml
-Sitemap: https://review25.netlify.app/sitemap_netlify.xml
-
-# Render Master Sitemap Index & Video
-Sitemap: https://topreviews-7r9w.onrender.com/sitemap_render_index.xml
-Sitemap: https://topreviews-7r9w.onrender.com/sitemap_render_video.xml
-Sitemap: https://topreviews-7r9w.onrender.com/sitemap_render.xml
-
-# AWS S3 Master Sitemap Index & Video
-Sitemap: https://myreviews-us.s3.amazonaws.com/sitemap_index.xml
-Sitemap: https://myreviews-us.s3.amazonaws.com/sitemap_s3_index.xml
-Sitemap: https://myreviews-us.s3.amazonaws.com/sitemap_video.xml
-Sitemap: https://myreviews-us.s3.amazonaws.com/sitemap_s3_video.xml
-Sitemap: https://myreviews-us.s3.amazonaws.com/sitemap.xml
-Sitemap: http://myreviews-us.s3-website-us-east-1.amazonaws.com/sitemap_s3_website_index.xml
-Sitemap: https://pcr3ml-dev.s3.amazonaws.com/sitemap_index.xml
