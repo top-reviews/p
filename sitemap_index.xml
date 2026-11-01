@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://topreviews.vercel.app/sitemaps/sitemap-vercel-001.xml</loc>
-    <lastmod>2026-11-01T22:33:37+00:00</lastmod>
+    <loc>https://topreviews2026.lovable.app/sitemap_bridge.xml</loc>
+    <lastmod>2026-11-01T22:40:20Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://topreviews2026.lovable.app/sitemap_news.xml</loc>
+    <lastmod>2026-11-01T22:40:20Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://topreviews2026.lovable.app/sitemap_video.xml</loc>
+    <lastmod>2026-11-01T22:40:20Z</lastmod>
   </sitemap>
 </sitemapindex>
