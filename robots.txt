@@ -13,7 +13,7 @@ Allow: /
 User-agent: *
 Allow: /
 
-# GitHub Pages Master Sitemap Index
+# GitHub Pages Master Sitemap Index & Direct
 Sitemap: https://top-reviews.github.io/p/sitemap_github_index.xml
 Sitemap: https://top-reviews.github.io/p/sitemap_github.xml
 
