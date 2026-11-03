@@ -31,3 +31,6 @@ Sitemap: https://topreviews-7r9w.onrender.com/sitemap_render_index.xml
 
 # AWS S3 Master Sitemap Index
 Sitemap: https://myreviews-us.s3.amazonaws.com/sitemap_index.xml
+
+# Lovable Master Sitemap Index
+Sitemap: https://topreviews2026.lovable.app/sitemap_lovable_index.xml
