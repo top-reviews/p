@@ -20,3 +20,7 @@
 /sitemap_github_video.xml       /sitemap_github_video.xml       200
 /sitemap_github_news.xml        /sitemap_github_news.xml        200
 /sitemap_github_index.xml       /sitemap_github_index.xml       200
+/sitemap_lovable_index.xml      /sitemap_lovable_index.xml      200
+
+# SPA Catch-All fallback for Client-Side Routing
+/*                              /index.html                     200
