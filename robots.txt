@@ -15,6 +15,7 @@ Allow: /
 
 # GitHub Pages Master Sitemap Index
 Sitemap: https://top-reviews.github.io/p/sitemap_github_index.xml
+Sitemap: https://top-reviews.github.io/p/sitemap_github.xml
 
 # Vercel Master Sitemap Index
 Sitemap: https://topreviews.vercel.app/sitemap_index.xml
