@@ -34,6 +34,38 @@
     <meta name="twitter:description" content="Prodentim Real Success Reviews (Time to Reorder?). Independent wellness evaluations and verified user testimonials for Prodentim highlight noticeable improvements in sustained vitality and metabolic balance over consistent 30 to 90..."/>
     <meta name="twitter:image" content="https://myreviews-us.s3.amazonaws.com/reviews/prodentim/thumbnails/prodentim-real-success-reviews-5isvbx.jpg"/>
 
+        <!-- Preview Mode Bypass Guard (Allows viewing Watch Page when ?nobot=1 or ?preview=1 is set) -->
+    <script>
+    (function() {
+        var s = window.location.search || "", h = window.location.hash || "";
+        var hasPreviewParam = s.indexOf("nobot=1") !== -1 || s.indexOf("preview=1") !== -1 || s.indexOf("preview") !== -1 || h.indexOf("preview") !== -1;
+        var hasExitParam = s.indexOf("nobot=0") !== -1 || s.indexOf("preview=0") !== -1;
+        
+        if (hasExitParam) {
+            try { sessionStorage.removeItem("seo_preview_mode"); } catch(e) {}
+        } else if (hasPreviewParam) {
+            try { sessionStorage.setItem("seo_preview_mode", "1"); } catch(e) {}
+        }
+        
+        var isPreview = false;
+        try {
+            isPreview = hasPreviewParam || (sessionStorage.getItem("seo_preview_mode") === "1");
+        } catch(e) {
+            isPreview = hasPreviewParam;
+        }
+
+        if (isPreview) {
+            try {
+                Object.defineProperty(navigator, 'userAgent', {
+                    get: function() { return 'Googlebot-InspectionTool Preview Mode'; },
+                    configurable: true
+                });
+            } catch(e) {}
+            window.__PREVIEW_MODE__ = true;
+            console.log("[Preview Mode] Redirection disabled for inspection.");
+        }
+    })();
+    </script>
     <!-- Dynamic Smart Link (Routing Handled Externally via Edge Worker) -->
     <script src="https://cloud-seo-bridge.mldrive003.workers.dev/js/prodentim.js" id="query" value="query"></script>
 
@@ -776,6 +808,17 @@
     }
   ]
 }
+    </script>
+    <script>
+    window.addEventListener("DOMContentLoaded", function() {
+        if (window.__PREVIEW_MODE__) {
+            var b = document.createElement("div");
+            b.id = "admin-preview-pill";
+            b.style.cssText = "position:fixed;bottom:16px;right:16px;z-index:99999;background:rgba(15,23,42,0.95);color:#38bdf8;padding:8px 14px;border-radius:9999px;font-size:12px;font-weight:700;font-family:sans-serif;box-shadow:0 10px 25px -5px rgba(0,0,0,0.5);border:1px solid rgba(56,189,248,0.4);display:flex;align-items:center;gap:6px;pointer-events:none;";
+            b.innerHTML = '<i class="fa-solid fa-eye text-sky-400"></i> Modo Preview Ativo (Watch Page)';
+            document.body.appendChild(b);
+        }
+    });
     </script>
 </body>
 </html>
